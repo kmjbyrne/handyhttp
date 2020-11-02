@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='HandyHTTP',
-    version='0.0.1',
+    version='0.0.6',
     description='Helpers package for Python web projects.',
     long_description=long_description,
     long_description_content_type="text/markdown",
